@@ -34,8 +34,8 @@ This project was developed as part of my learning journey as a third-year B.Tech
 
 1. **Clone this repository:**
    ```bash
-   git clone https://github.com/JanakiVeluri006/spam-mail-detection.git
-   cd spam-mail-detection
+   git clone https://github.com/Varshitha9553/spam-mail-detection.git
+   cd Spam_Sense
    ```
 
 2. **Install dependencies:**
@@ -89,7 +89,7 @@ Paste a suspicious message in the app, click **Analyze**, and see if it’s safe
 
 ## 👤 Author
 
-**Janaki Veluri**  
+**Varshitha Vijjapu**  
 Third-year B.Tech student | Python/C/Java enthusiast
 
 Feel free to fork, contribute, or suggest improvements!
